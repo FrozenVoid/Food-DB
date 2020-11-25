@@ -1,0 +1,8 @@
+Pectin in fruits/vegetables decomposes to methanol.
+https://en.wikipedia.org/wiki/Pectin#Biology
+	
+Abstract
+
+After the consumption of fruit, the concentration of methanol in the human body increases by as much as an order of magnitude. This is due to the degradation of natural pectin (which is esterified with methyl alcohol) in the human colon. In vivo tests performed by means of proton‐transfer‐reaction mass spectrometry show that consumed pectin in either a pure form (10 to 15 g) or a natural form (in 1 kg of apples) induces a significant increase of methanol in the breath (and by inference in the blood) of humans. The amount generated from pectin (0.4 to 1.4 g) is approximately equivalent to the total daily endogenous production (measured to be 0.3 to 0.6 g/day) or that obtained from 0.3 liters of 80‐proof brandy (calculated to be 0.5 g). This dietary pectin may contribute to the development of nonalcoholic cirrhosis of the liver.
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1530-0277.1997.tb03862.x
