@@ -1,0 +1,29 @@
+Fructose is a type of sugar.
+However due some biological features it creates damage.
+1.In concentrate form:HFCS, juices(essentially fructose solution),
+sodas are rapidly absorbed and spike insulin.
+
+2.All fructose is ready food for bacteria 
+in mouth(lowers dental health) and concentration in
+blood allows pathogens a food source. 
+
+3.Modern sweet cultivars of fruit/vegetables are
+especially problematic(their image is natural, health food),
+because they are also nutrient sources filled
+with fructose(and are **unhealthy** with exception of 
+unripe fruit/vegetables). 
+
+4.Fructose does not cause satiety, and relies on unique 
+fructokinase pathway, easily overloaded
+( see https://en.wikipedia.org/wiki/Non-alcoholic_fatty_liver_disease )
+
+5.Unlike glucose(blood sugar) it causes much more cell 
+damage and binds easily to proteins
+ [Advanced Glycation Endproduct] 
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC21074/
+
+https://en.wikipedia.org/wiki/Fructose
+https://www.theguardian.com/commentisfree/2013/oct/21/fructose-poison-sugar-industry-pseudoscience
+https://www.reddit.com/r/ketoscience/
