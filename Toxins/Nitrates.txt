@@ -1,0 +1,127 @@
+Nitrate toxicosis can occur through enterohepatic metabolism of nitrate due to nitrite being an intermediate.[15] Nitrites oxidize the iron atoms in hemoglobin from ferrous iron(II) to ferric iron(III), rendering it unable to carry oxygen.[16] This process can lead to generalized lack of oxygen in organ tissue and a dangerous condition called methemoglobinemia. Although nitrite converts to ammonia, if there is more nitrite than can be converted, the animal slowly suffers from a lack of oxygen.[17]
+https://en.wikipedia.org/wiki/Nitrate#Occurrence
+
+------
+http://onlinelibrary.wiley.com/doi/10.2903/j.efsa.2008.689/pdf 
+
+
+    Concentrations:
+    Table 2. Nitrate concentrations in brassica vegetables.
+    Nitrate concentration (mg/kg)
+    Brassica vegetables
+    Number of samples
+    (weighting factor)  P5  Median  Mean  P95
+    Broccoli 227 (*0.54)  16  209  279  758
+    Brussels sprouts 130 (*0.54)  1  1  24  100
+    Cabbage 1,198 (*3.99)  47  223  311  833
+    Cauliflower 289 (*2.06)  7  122  148  390
+    Chinese cabbage  469 (*0.02)  77  870  933  1,928
+    Curly kale 169 (*0.10)  19  267  537  1,846
+    Kohlrabi 135 (*0.02)  142  940  987  1,830
+    Red cabbage 196 (*0.60)  35  250  281  704
+    Sauerkraut  37 (*0.02)  37  42  66  215
+    Savoy cabbage  342 (*0.02)  1  204  324  1,144
+
+    Table 3. Nitrate concentrations in bulb vegetables.
+    Nitrate concentration (mg/kg)
+    Bulb vegetables
+    Number of samples
+    (weighting factor)  P5  Median  Mean  P95
+    Garlic 13 (*0.60)  8  70  69  161
+    Onions 230 (*5.55)  1  60  164  638
+
+    Table 4. Nitrate concentrations in fruiting vegetables.
+    Nitrate concentration (mg/kg)
+    Fruiting vegetables
+    Number of samples
+    (weighting factor)  P5  Median  Mean  P95
+    Aubergine  182 (*0.46)  29  303  314  572
+    Capsicum 455 (*0.40)  1  28  108  476
+    Chili pepper 152 (*2.08)  4  52  67  120
+    Courgette 159 (*0.02)  11  297  416  1,060
+    Cucumber 898 (*0.90)  22  156  185  409
+    Gherkin 88 (*0.90)  11  40  69  230
+    Pumpkin 32 (*0.70)  8  392  894  4,617
+    Tomato 856 (*6.96)  1  26  43  144
+
+
+    Table 5. Nitrate concentrations in fungi.
+    Nitrate concentration (mg/kg)
+    Fungi
+    Number of samples
+    (weighting factor)  P5  Median  Mean  P95
+    Mushroom  12 (*0.80)  31  43  61  100
+    Table 6. Nitrate concentrations in herbs.
+    Nitrate concentration (mg/kg)
+    Herbs
+    Number of samples
+    P5  Median  Mean  P95
+    Basil 68 94 1,827  2,292  5,174
+    Borage 15  200 1,536  1,918  4,550
+    Chives 83  1 307  748  2,949
+    Coriander 20  1,135 2,468  2,445  3,982
+    Dill 57  13 1,123  1,332  4,294
+    Parsley 249  10 480  958  3,404
+
+    Table 7. Nitrate concentrations in leafy vegetables.
+    Nitrate concentration (mg/kg)
+    Leafy vegetables
+    Number of samples
+    (weighting factor)  P5  Median  Mean  P95
+    Amaranth 12 (*0.01)  439 2,660  2,167  3,483
+    Beet 12 (*0.002)  84 1,770  1,852  3,685
+    Belgian endive 1,006 (*0.41)  63 1,475  1,465  3,063
+    Butterhead lettuce  3,426 (*1.44)  53 1,978  2,026  4,090
+    Cos lettuce 124 (*1.03)  167 1,097  1,105  2,200
+    Curled lettuce  301 (*0.10)  16 1,628  1,601  3,400
+    Dandelion  23 (*0.02)  5 202  605  2,747
+    Escarole 73 (*0.002)  6 298  523  1,579
+    Iceberg lettuce  1,980 (*2.06)  210 844  875  1,537
+    Lamb’s lettuce  710 (*0.10)  121 2,130  2,104  3,833
+    Lettuce  7,749 (*2.06)  56 915  1,324  3,660
+    Mixed lettuce  89 (*2.01)  281 1,878  2,062  5,242
+    Oak-leaf lettuce  470 (*0.10)  8 1,553  1,534  3,285
+    Radicchio 40 (*0.10)  5 339  355  829
+    Rucola 1,943 (*0.10)  1,528 4,800  4,677  7,340
+    Silverbeet (chard)  666 (*0.10)  178 1,510  1,690  3,685
+    Spinach 6,657 (*0.52)  64 785  1,066  3,048
+    Water cress 25 (*0.02)  4 12  136  174
+
+    Table 8. Nitrate concentrations in legumes.
+    Nitrate concentration (mg/kg)
+    Legumes
+    Number of samples
+    (weighting factor)  P5  Median  Mean  P95
+    Beans  48 (*0.24)  6 435  392  810
+    French beans  52 (*0.24)  4 20  756  3,970
+    Green beans 362 (*2.39)  9 293  323  735
+    Peas 407 (*2.79)  1 1  30  100
+    String beans 13 (*0.24)  170 610  618  900
+
+    Table 9. Nitrate concentrations in stem vegetables.
+    Nitrate concentration (mg/kg)
+    Stem vegetables
+    Number of samples
+    (weighting factor)  P5  Median  Mean  P95
+    Asparagus 260 (*0.30)  1 24  209  1,459
+    Celery  387 (*0.40)  18 693  1,103  3,319
+    Fennel 116 (*0.002)  25 783  1,024  3,047
+    Leek  558 (*0.40)  5 257  345  975
+    Rhubarb 58 (*0.40)  28 2,808  2,943  6,550
+
+    Table 10. Nitrate concentrations in roots and tubers.
+    Nitrate concentration (mg/kg)
+    Roots and Tubers
+    Number of samples
+    (weighting factor)  P5 Median  Mean  P95
+    Artichokes 65 (*1.10)  1 21  174  375
+    Beetroot  1,013 (*0.40)  110 1,100  1,379  3,670
+    Black radish  19 (*0.002)  233 1,245  1,271  2,302
+    Black salsify  12 (*0.002)  1 12  43  230
+    Carrot  2,383 (*4.39)  21 125  296  1,574
+    Celeriac  41 (*0.002) 20 263  390  975
+    Parsnip 22 (*0.40)  2 16  83  349
+    Potato 2,795 (*48.05)  10 106  168  340
+    Radish  788 (*0.40)  115 735  967  2,515
+    Turnip 241 (*0.40)  10 312  663  3,400
+    White radish  200 (*0.02)  135 1,256  1,416  3,488
