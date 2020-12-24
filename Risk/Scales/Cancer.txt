@@ -1,0 +1,12 @@
+Instead of uniform "This chemical causes cancer" warning that is 
+too broad to apply to everything, use tiers describing scale of risk:
+Tier 1 - Proven to cause cancer at low dose/exposure
+Tier 2 - Proven to cause cancer in high dose/exposure
+Tier 3 - Strongly suspected to cause cancer at low dose/exposure
+Tier 4 - Strongly suspected to cause cancer at high dose/exposure
+Tier 5 - Suspected to cause cancer at low dose/exposure
+Tier 6 - Suspected to cause cancer at high dose/exposure
+Tier 7 - Cancer risk suggested by some studies
+
+
+
