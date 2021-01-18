@@ -22,3 +22,5 @@ Approximate hesperidin content per 100 ml[8]
 18 mg lemon, pure juice
 14 mg lime, pure juice
 1 mg grapefruit, pure juice
+
+http://phenol-explorer.eu/contents/polyphenol/207
