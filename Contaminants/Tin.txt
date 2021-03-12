@@ -1,0 +1,234 @@
+https://en.wikipedia.org/wiki/Tin_poisoning
+http://dietgrail.com/tin-in-food/
+tin mcg/100g
+
+		
+
+Baked beans, canned in tomato sauce700.0
+			Baked beans, canned in tomato sauce, salt reduced700.0
+		
+			Pea, green, canned in brine, boiled, drained457.8
+		
+			Cheese, feta (fetta), sheep & cows milk89.6
+		
+			Bean, red, kidney, canned, drained22.7
+		
+			Tuna, canned in brine, drained19.6
+		
+			Tuna, canned in water, added salt, drained19.6
+		
+			Crabmeat, canned in brine, drained11.1
+		
+			Crabmeat, canned in brine9.8
+		
+			Sausage, beef, fried6.0
+		
+			Sausage, beef, grilled6.0
+		
+			Cake, chocolate, iced, commercial5.6
+		
+			Venison, mince, premium, dry fried2.4
+		
+			Chocolate, milk, with added milk solids2.3
+
+
+
+		
+
+Pie, savoury, meat, commercial, family size1.9
+			Pie, savoury, meat, commercial, individual size1.9
+		
+			Pie, savoury, meat, commercial, party size1.9
+		
+			Venison, mince, premium, raw1.7
+		
+			Peanut, milk chocolate-coated1.5
+		
+			Bread, from white flour, toasted1.4
+		
+			Bread, from white flour, added omega-3 polyunsaturates, toasted1.4
+		
+			Bread, from white flour, added omega-3 polyunsaturates1.2
+		
+			Chicken, drumstick, lean, baked without oil1.2
+		
+			Bread, from white flour1.2
+		
+			Nut, peanut, with skin, roasted, with oil, salted1.2
+		
+			Nut, peanut, without skin, roasted, with oil, salted1.2
+		
+			Nut, peanut, without skin, roasted, with oil, unsalted1.2
+		
+			Yoghurt, regular fat (~3%), strawberry pieces or flavoured0.9
+
+
+		
+
+Yoghurt, low fat (<0.5%), strawberry pieces or flavoured0.9
+			Margarine spread, polyunsaturated (70% fat), reduced salt (sodium = 380 mg/100g)0.9
+		
+			Margarine spread, monounsaturated (70% fat)0.9
+		
+			Margarine spread, monounsaturated (70% fat), reduced salt (sodium = 380mg/100g)0.9
+		
+			Margarine spread, monounsaturated, reduced fat (55% fat) & salt (sodium = 380 mg/100g)0.9
+		
+			Venison, stir fry strips, lean, dry fried0.7
+		
+			Bread, from wholemeal flour, toasted0.7
+		
+			Cabbage, bok choy, stir-fried without oil0.7
+		
+			Sprout, alfalfa, raw0.6
+		
+			Bread, from wholemeal flour0.6
+		
+			Venison, leg medallion, lean, dry fried0.6
+		
+			Venison, diced, lean, dry fried0.6
+		
+			Pork, butterfly steak, separable lean, grilled0.6
+		
+			Peach, unpeeled, raw0.6
+
+
+		
+
+Pasta, white wheat flour, boiled from dry, with added salt0.6
+			Pasta, white wheat flour, boiled from dry, no added salt0.6
+		
+			Venison, leg medallion, lean, raw0.5
+		
+			Venison, diced, lean, raw0.5
+		
+			Venison, stir fry strips, lean, raw0.5
+		
+			Ham steak, raw0.5
+		
+			Ham, leg, lean0.5
+		
+			Ham, leg, lean & fat0.5
+		
+			Cabbage, bok choy, raw0.5
+		
+			Lamb, liver, grilled0.4
+		
+			Capsicum, green, raw0.4
+		
+			Capsicum, green, stir-fried without oil0.4
+		
+			Capsicum, red, raw0.4
+		
+			Capsicum, red, stir-fried without oil0.4
+
+
+		
+
+Lettuce, cos, raw0.3
+			Lettuce, iceberg, raw0.3
+		
+			Lettuce, mignonette, raw0.3
+		
+			Nut, walnut, raw0.3
+		
+			Tahini, sesame seed pulp0.3
+		
+			Mushroom, common, stir-fried without oil0.3
+		
+			Chiko roll, deep fried0.3
+		
+			Dim sim, deep fried, commercial0.3
+		
+			Peanut butter, smooth & crunchy, added sugar & salt0.2
+		
+			Peanut butter, smooth & crunchy, added sugar, no added salt0.2
+		
+			Peanut butter, smooth & crunchy, no added sugar or salt0.2
+		
+			Pear, unpeeled, raw0.2
+		
+			Mushroom, common, raw0.2
+		
+			Lamb, kidney, simmered0.1
+
+
+		
+
+Breakfast cereal, mixed grain flakes (wheat, oats), added dried fruit, added vitamins B1, B2, B3 & folate & Fe0.1
+			Breakfast cereal, mixed grain (wheat, oat & corn), extruded shapes, added vitamins B1, B2, B3, B6 & C, Ca & Fe0.1
+		
+			Tea, regular, brewed from leaf or teabags, without milk0.0
+		
+			Biscuit, savoury, rice cracker0.0
+		
+			Oats, rolled, boiled, no added salt0.0
+		
+			Biscuit, savoury, from white flour, plain snack cracker style0.0
+		
+			Biscuit, savoury, from white flour, flaky cracker style0.0
+		
+			Biscuit, savoury, from white flour, Salada style0.0
+		
+			Biscuit, savoury, wholemeal wheat flour0.0
+		
+			Biscuit, savoury, flavoured0.0
+		
+			Biscuit, sweet, plain0.0
+		
+			Juice, orange, no added vitamin c0.0
+		
+			Juice, orange, added vitamin c0.0
+		
+			Juice, orange, shelf stable, added vitamin c0.0
+
+
+		
+
+Juice, orange, sweetened, no added vitamin C0.0
+			Juice, orange, sweetened, added vitamin C0.0
+		
+			Juice, orange, added calcium, & vitamins A, C & folate0.0
+		
+			Juice concentrate, orange0.0
+		
+			Beer, bitter0.0
+		
+			Beer, draught0.0
+		
+			Beer, ale0.0
+		
+			Beer, lager0.0
+		
+			Melon, rockmelon (cantaloupe), peeled, raw0.0
+		
+			Milk, cow, fluid, regular fat (~3.5%)0.0
+		
+			Oil, blend of polyunsaturated vegetable oils0.0
+		
+			Egg, chicken, whole, raw0.0
+		
+			Egg, chicken, whole, hard-boiled0.0
+		
+			Egg, chicken, whole, poached0.0
+
+
+		
+
+Apple, green skin, unpeeled, raw0.0
+			Apple, red skin, unpeeled, raw0.0
+		
+			Banana, cavendish, peeled, raw0.0
+		
+			Mussel, green, steamed or boiled0.0
+		
+			Tomato, cherry, raw0.0
+		
+			Tomato, common, raw0.0
+		
+			Tomato, hydroponic, raw0.0
+		
+			Potato, new, peeled, boiled0.0
+		
+			Potato, sebago, unpeeled, boiled0.0
+
