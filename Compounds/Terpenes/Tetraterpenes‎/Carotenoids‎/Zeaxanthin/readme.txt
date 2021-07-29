@@ -3,6 +3,9 @@ Zeaxanthin is one of the two primary xanthophyll carotenoids contained within th
 Lutein is an isomer of Zeaxanthin.
 https://www.jonbarron.org/herbal-library/nutraceuticals/zeaxanthin
 Sources mcg per 100g http://dietgrail.com/lutein-zeaxanthin/
+
+------------------------------------------------
+
 Kale, frozen, cooked, boiled, drained, without salt	19697
 Kale, frozen, cooked, boiled, drained, with salt	19697
 Spices, paprika	18944
@@ -731,6 +734,1128 @@ Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K, Cinnamon Pecan	85
 Cherries, sweet, raw	85
 Cherries, sour, red, raw	85
 Cherries, sweet, frozen, sweetened	85
+Cake, sponge, commercially prepared	85
+Chicken pot pie, frozen entree, prepared	84
+Bananas, dehydrated, or banana powder	84
+Cereals ready-to-eat, KELLOGG'S SPECIAL K Chocolatey Delight	83
+Chicken, liver, all classes, cooked, simmered	83
+Cereals ready-to-eat, KELLOGG, SPECIAL K, Fruit & Yogurt	82
+Snacks, granola bites, mixed flavors	82
+Spaghetti, whole-wheat, cooked	81
+Fast foods, griddle cake sandwich, egg, cheese, and sausage	81
+Macaroni, whole-wheat, cooked	81
+Crackers, wheat, low salt	81
+Crackers, wheat, regular	81
+Cereals ready-to-eat, rolled oats, whole wheat, rice, presweetened, maple flavored, with pecans	81
+Gerber graduates Fruit Strips Real Fruit Bars	81
+Soup, vegetarian vegetable, canned, prepared with equal volume water	80
+Blueberries, raw	80
+Vegetable juice cocktail, canned	80
+Cream puffs, prepared from recipe, shell, with custard filling	80
+Crackers, saltines, whole wheat (includes multi-grain)	80
+Tomato and vegetable juice, low sodium	80
+Wheat flour, white, bread, enriched	79
+Wheat flours, bread, unenriched	79
+Wheat flour, white, all-purpose, enriched, unbleached	79
+Blackberries, canned, heavy syrup, solids and liquids	79
+Soup, pea, split with ham, canned, chunky, ready-to-serve	78
+Pancakes, plain, dry mix, incomplete (includes buttermilk)	78
+Bread, protein (includes gluten)	77
+Fast foods, taco with chicken, lettuce and cheese, soft	77
+Peaches, frozen, sliced, sweetened	77
+Cabbage, savoy, raw	77
+Babyfood, dinner, vegetables and turkey, strained	76
+Cattail, Narrow Leaf Shoots (Northern Plains Indians)	76
+Cracker meal	76
+Bread, oatmeal, toasted	75
+Spaghetti, with meatballs, canned	75
+Dates, deglet noor	75
+Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids	75
+Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, juice pack, solids and liquids	75
+Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, light syrup, solids and liquids	75
+Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, heavy syrup, solids and liquids	75
+Fruit salad, (peach and pear and apricot and pineapple and cherry), canned, heavy syrup, solids and liquids	75
+Seeds, pumpkin and squash seed kernels, dried	74
+Soup, chicken gumbo, canned, condensed	74
+Dip, OLD EL PASO, Cheese 'n Salsa, medium	74
+Croissants, butter	74
+Crackers, melba toast, plain	74
+Snacks, granola bars, hard, peanut	74
+Bread, protein, toasted (includes gluten)	73
+Snacks, granola bar, KASHI TLC Bar, crunchy, mixed flavors	73
+Cereals, NESTUM, prepared with water	73
+Egg rolls, chicken, refrigerated, heated	73
+Fast foods, grilled chicken, bacon and tomato club sandwich, with cheese, lettuce, and mayonnaise	73
+Soup, chicken vegetable, canned, condensed	73
+Plums, canned, heavy syrup, drained	73
+Blueberries, frozen, sweetened	73
+Plums, raw	73
+Orange-grapefruit juice, canned, unsweetened	73
+Cereals ready-to-eat, KELLOGG'S, SPECIAL K Vanilla Almond	73
+Cereals ready-to-eat, KELLOGG, KELLOGG'S, RAISIN BRAN CRUNCH	72
+Grape juice cocktail, frozen concentrate, diluted with 3 volume water, with added ascorbic acid	72
+Grapes, american type (slip skin), raw	72
+Grapes, red or green (European type, such as Thompson seedless), raw	72
+Babyfood, dinner, vegetables chicken, strained	72
+Babyfood, pretzels	72
+Fast foods, crispy chicken, bacon, and tomato club sandwich, with cheese, lettuce, and mayonnaise	72
+Bread, oatmeal	72
+Bread stuffing, bread, dry mix	72
+Bread, boston brown, canned	71
+Rolls, dinner, egg	71
+Pork and turkey sausage, pre-cooked	71
+Sweet rolls, cinnamon, commercially prepared with raisins	70
+Ravioli, meat-filled, with tomato sauce or meat sauce, canned	70
+Millet, cooked	70
+Pie fillings, cherry, low calorie	70
+PIZZA HUT 12" Cheese Pizza, Hand-Tossed Crust	69
+Sauce, barbecue, KRAFT, original	69
+Babyfood, ravioli, cheese filled, with tomato sauce	69
+Blueberries, frozen, unsweetened	68
+Blackberry juice, canned	68
+Cereals ready-to-eat, KASHI GO LEAN CRUNCH!, Honey Almond Flax	68
+Cranberry juice, unsweetened	68
+Crackers, cheese, reduced fat	68
+Dip, salsa con queso, cheese and salsa- medium	67
+Restaurant, Chinese, chicken chow mein	66
+Teff, uncooked	66
+Fast foods, taco with beef, cheese and lettuce, soft	66
+Waffle, buttermilk, frozen, ready-to-heat, toasted	66
+Carambola, (starfruit), raw	66
+Squash, winter, acorn, cooked, boiled, mashed, without salt	66
+Plums, dried (prunes), stewed, without added sugar	65
+Babyfood, plums, bananas and rice, strained	65
+Babyfood, crackers, vegetable	65
+Desserts, flan, caramel custard, prepared-from-recipe	65
+Rolls, dinner, wheat	65
+Bread sticks, plain	65
+Fish, fish portions and sticks, frozen, preheated	65
+Formulated bar, high fiber, chewy, oats and chocolate	65
+Snacks, granola bar, KASHI GOLEAN, crunchy, mixed flavors	64
+Babyfood, dessert, blueberry yogurt, strained	64
+Burrito, beef and bean, microwaved	64
+Wild rice, cooked	64
+Grapes, muscadine, raw	64
+Cereals ready-to-eat, GENERAL MILLS, 25% Less Sugar Cinnamon Toast Cereal	64
+Cranberry sauce, canned, sweetened	63
+Waffles, buttermilk, frozen, ready-to-heat	63
+Cheesecake commercially prepared	62
+Snacks, candy rolls, yogurt-covered, fruit flavored with high vitamin C	62
+Cookies, graham crackers, plain or honey (includes cinnamon)	61
+Cherries, sour, red, frozen, unsweetened	61
+Peaches, canned, water pack, solids and liquids	61
+Peaches, canned, juice pack, solids and liquids	61
+Peaches, canned, light syrup pack, solids and liquids	61
+Peaches, canned, heavy syrup pack, solids and liquids	61
+Peaches, spiced, canned, heavy syrup pack, solids and liquids	61
+Corn, sweet, white, frozen, kernels on cob, unprepared	61
+Tomato juice, canned, without salt added	60
+Pickles, cucumber, dill, low sodium	60
+Tomato juice, canned, with salt added	60
+Buckwheat groats, roasted, cooked	60
+Dip, TOSTITOS, salsa con queso, medium	59
+Pancakes plain, frozen, ready-to-heat (includes buttermilk)	59
+Snacks, granola bars, oats, fruits and nut	59
+Desserts, egg custard, baked, prepared-from-recipe	59
+Maraschino cherries, canned, drained	59
+Babyfood, juice, orange and apple and banana	59
+Potato soup, instant, dry mix	59
+Soup, chunky chicken noodle, canned, ready-to-serve	58
+Babyfood, dinner, beef with vegetables	58
+Corn, sweet, white, frozen, kernels on cob, cooked, boiled, drained, without salt	58
+Corn, sweet, white, frozen, kernels on cob, cooked, boiled, drained, with salt	58
+Bread, wheat germ, toasted	58
+Rolls, hard (includes kaiser)	58
+Bagels, oat bran	58
+Snacks, granola bars, QUAKER OATMEAL TO GO, all flavors	58
+Marmalade, orange	58
+Pizza, meat and vegetable topping, rising crust, frozen, cooked	58
+Fast Food, Pizza Chain, 14" pizza, cheese topping, regular crust	58
+Cherries, sweet, canned, pitted, heavy syrup, drained	57
+Cherries, sweet, canned, water pack, solids and liquids	57
+Cherries, sweet, canned, juice pack, solids and liquids	57
+Cherries, sweet, canned, light syrup pack, solids and liquids	57
+Cherries, sweet, canned, pitted, heavy syrup pack, solids and liquids	57
+Cherries, sour, red, canned, water pack, solids and liquids (includes USDA commodity red tart cherries, canned)	57
+Cherries, sour, red, canned, heavy syrup pack, solids and liquids	57
+Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid	57
+Grape juice, canned or bottled, unsweetened, with added ascorbic acid	57
+Cereals ready-to-eat, KELLOGG, KELLOGG'S PRODUCT 19	57
+Soup, chicken, canned, chunky, ready-to-serve	56
+Babyfood, fruit, applesauce and cherries, strained	56
+Barley, pearled, cooked	56
+Bagels, cinnamon-raisin, toasted	56
+Bread, rye, toasted	56
+Muffin, blueberry, commercially prepared, low-fat	56
+Bread, wheat germ	55
+Bagels, plain, toasted, enriched, with calcium propionate (includes onion, poppy, sesame)	55
+Pizza, meat and vegetable topping, regular crust, frozen, cooked	55
+Sauce, tartar, ready-to-serve	55
+Babyfood, prunes, without vitamin c, strained	55
+Cereals ready-to-eat, GENERAL MILLS, CINNAMON TOAST CRUNCH	55
+Eggnog	54
+Bulgur, cooked	54
+Noodles, flat, crunchy, Chinese restaurant	54
+Bagels, cinnamon-raisin	54
+Bread, wheat bran	54
+Bread, rye	54
+Rolls, dinner, rye	54
+Bread, pita, white, enriched	53
+Bread, pita, whole-wheat	53
+Quinoa, cooked	53
+Blueberries, canned, heavy syrup, solids and liquids	53
+Blueberries, canned, light syrup, drained	53
+Cereals ready-to-eat, POST, Golden Crisp	52
+Burrito, beef and bean, frozen	52
+Pie, vanilla cream, prepared from recipe	52
+Danish pastry, cinnamon, enriched	52
+Bread, rice bran, toasted	51
+Waffles, plain, frozen, ready -to-heat, toasted	51
+Snacks, fruit leather, pieces	51
+Babyfood, dinner, vegetables and beef, strained	51
+Babyfood, dinner, vegetables and beef, junior	51
+Pears, raw, bartlett	51
+Peppers, sweet, red, raw	51
+Corn, sweet, white, frozen, kernels cut off cob, boiled, drained, without salt	50
+Corn, sweet, white, frozen, kernels cut off cob, boiled, drained, with salt	50
+Pears, asian, raw	50
+Pears, canned, heavy syrup, drained	50
+Pears, dried, sulfured, uncooked	50
+Babyfood, vegetable, green beans and potatoes	50
+Salad dressing, home recipe, cooked	50
+Soup, cream of chicken, dry, mix, prepared with water	50
+Soup, turkey vegetable, canned, condensed	50
+Rolls, french	50
+Pie, egg custard, commercially prepared	50
+Bread, wheat, toasted	50
+Fast Foods, grilled chicken filet sandwich, with lettuce, tomato and spread	50
+Fast foods, cheeseburger; double, regular patty; double decker bun with condiments and special sauce	50
+Creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie, cholesterol-free	49
+Salad dressing, buttermilk, lite	49
+Bread, rice bran	49
+Danish pastry, fruit, enriched (includes apple, cinnamon, raisin, lemon, raspberry, strawberry)	49
+Cookies, oatmeal, commercially prepared, special dietary	49
+Cereals ready-to-eat, KELLOGG, KELLOGG'S CRACKLIN' OAT BRAN	49
+Salad dressing, ranch dressing, reduced fat	49
+Babyfood, apple-cranberry juice	49
+Babyfood, dinner, vegetables and ham, strained	49
+Babyfood, dinner, vegetables and ham, junior	49
+Plums, canned, purple, water pack, solids and liquids	49
+Plums, canned, purple, juice pack, solids and liquids	49
+Plums, canned, purple, light syrup pack, solids and liquids	49
+Plums, canned, purple, heavy syrup pack, solids and liquids	49
+Grapes, canned, thompson seedless, water pack, solids and liquids	48
+Grapes, canned, thompson seedless, heavy syrup pack, solids and liquids	48
+Cabbage, chinese (pe-tsai), raw	48
+Sauce, worcestershire	48
+Waffles, plain, frozen, ready-to-heat	48
+Muffins, wheat bran, toaster-type with raisins, toasted	48
+Bread, oat bran, toasted	48
+Bread, italian	48
+Bread, pumpernickel, toasted	48
+Bread, reduced-calorie, oat bran, toasted	48
+Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame)	48
+Salad dressing, coleslaw	48
+Snacks, granola bar, with coconut, chocolate coated	48
+Soup, egg drop, Chinese restaurant	48
+Snacks, granola bar, chewy, reduced sugar, all flavors	47
+PAPA JOHN'S 14" Cheese Pizza, Original Crust	47
+Muffins, wheat bran, toaster-type with raisins	47
+Doughnuts, cake-type, wheat, sugared or glazed	47
+English muffins, plain, toasted, enriched, with calcium propionate (includes sourdough)	47
+Orange and apricot juice drink, canned	47
+Soup, beef and mushroom, low sodium, chunk style	47
+Soup, chicken vegetable, canned, prepared with equal volume water	47
+Babyfood, fruit, applesauce and cherries, junior	47
+Peppers, sweet, red, cooked, boiled, drained, without salt	47
+Peppers, sweet, red, cooked, boiled, drained, with salt	47
+Currants, red and white, raw	47
+Soup, vegetable beef, canned, prepared with equal volume water	46
+Pie, banana cream, prepared from recipe	46
+Bread, egg, toasted	46
+Bread, raisin, toasted, enriched	46
+Bread, pumpernickel	46
+Bread, oat bran	46
+Bread, white, commercially prepared, toasted	46
+Snacks, banana chips	46
+Rolls, pumpernickel	46
+Candies, crispy bar with peanut butter filling	45
+Fast foods, hamburger; single, large patty; with condiments, vegetables and mayonnaise	45
+Bread, egg	45
+Rolls, hamburger or hotdog, plain	45
+Rolls, hamburger or hotdog, mixed-grain	45
+Rolls, hamburger or hotdog, reduced-calorie	45
+Croutons, seasoned	45
+Bread, cheese	45
+Candies, HERSHEY, REESESTICKS crispy wafers, peanut butter, milk chocolate	45
+Sauce, hoisin, ready-to-serve	45
+Soup, vegetable, canned, low sodium, condensed	45
+Soup, minestrone, canned, chunky, ready-to-serve	45
+Cereals, WHEATENA, cooked with water, with salt	45
+Pears, raw	44
+Soup, turkey noodle, canned, condensed	44
+Soup, tomato, canned, prepared with equal volume water, commercial	44
+Soup, tomato, low sodium, with water	44
+Babyfood, pears, dices, toddler	44
+Bread, white, commercially prepared, low sodium no salt	44
+Rolls, dinner, oat bran	44
+Bread, white, commercially prepared (includes soft bread crumbs)	44
+Bread, wheat	44
+Bread, raisin, enriched	44
+Chicken tenders, breaded, frozen, prepared	44
+Pudding, lemon, dry mix, regular, prepared with sugar, egg yolk and water	44
+Potato salad with egg	43
+Snacks, granola bar, KASHI GOLEAN, chewy, mixed flavors	43
+Snacks, granola bar, QUAKER, DIPPS, all flavors	43
+Coffeecake, cinnamon with crumb topping, dry mix, prepared	43
+Puff pastry, frozen, ready-to-bake	43
+Croissants, cheese	43
+Babyfood, fruit, apple and blueberry, junior	43
+Babyfood, dessert, fruit dessert, without ascorbic acid, strained	43
+Babyfood, dessert, fruit dessert, without ascorbic acid, junior	43
+Soup, tomato, canned, prepared with equal volume low fat (2%) milk	43
+Soup, chicken noodle, dry, mix	43
+Corn, sweet, white, cooked, boiled, drained, without salt	43
+Corn, sweet, white, cooked, boiled, drained, with salt	43
+Pickles, cucumber, sour	43
+Pickles, cucumber, sour, low sodium	43
+Cauliflower, green, raw	42
+Danish pastry, nut (includes almond, raisin nut, cinnamon nut)	42
+English muffins, plain, enriched, with ca prop (includes sourdough)	42
+Strudel, apple	42
+Focaccia, Italian flatbread, plain	42
+Pie, Dutch Apple, Commercially Prepared	42
+Bread, reduced-calorie, oat bran	42
+Fast Foods, cheeseburger; double, large patty; with condiments, vegetables and mayonnaise	42
+Fast foods, cheeseburger; single, large patty; with condiments, vegetables and mayonnaise	41
+WENDY'S, DAVE'S Hot 'N Juicy 1/4 LB, single	41
+Fast Foods, crispy chicken filet sandwich, with lettuce and mayonnaise	41
+Bread, reduced-calorie, wheat	41
+Bread, salvadoran sweet cheese (quesadilla salvadorena)	41
+Snacks, fruit leather, rolls	41
+Cookies, vanilla wafers, lower fat	41
+Pickles, cucumber, dill or kosher dill	41
+Corn, sweet, white, canned, vacuum pack, regular pack	41
+Cereals, whole wheat hot natural cereal, cooked with water, with salt	41
+Cereals, whole wheat hot natural cereal, cooked with water, without salt	41
+Salad dressing, honey mustard, regular	41
+Babyfood, dinner, chicken soup, strained	40
+Babyfood, dinner, chicken noodle, strained	40
+Corn, sweet, white, canned, vacuum pack, no salt added	40
+Corn, sweet, white, canned, whole kernel, drained solids	40
+Cabbage, chinese (pak-choi), raw	40
+Prune juice, canned	40
+Snacks, NUTRI-GRAIN FRUIT AND NUT BAR	40
+Breakfast bar, corn flake crust with fruit	40
+Salad dressing, green goddess, regular	39
+Frozen novelties, juice type, orange	39
+Snacks, potato chips, fat free, salted	39
+Puff pastry, frozen, ready-to-bake, baked	39
+Pie, pecan, commercially prepared	39
+Apricots, canned, heavy syrup, drained	39
+Peppers, sweet, red, frozen, chopped, unprepared	39
+Babyfood, fruit, prunes with tapioca, without ascorbic acid, strained	39
+Babyfood, fruit, prunes with tapioca, without ascorbic acid, junior	39
+Babyfood, dessert, custard pudding, vanilla, strained	39
+Babyfood, dessert, custard pudding, vanilla, junior	39
+Babyfood, cereal, rice, with bananas, dry	39
+Babyfood, dessert, peach cobbler, strained	39
+Babyfood, dessert, peach cobbler, junior	39
+Babyfood, fruit, pears, junior	38
+Babyfood, dinner, turkey and rice, strained	38
+Cabbage, chinese (pak-choi), cooked, boiled, drained, with salt	38
+Squash, winter, acorn, raw	38
+Shallots, freeze-dried	38
+Squash, winter, all varieties, raw	38
+Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt	38
+Potatoes, mashed, dehydrated, granules without milk, dry form	38
+Danish pastry, cheese	38
+Cookies, sugar, commercially prepared, regular (includes vanilla)	38
+Cookies, graham crackers, chocolate-coated	38
+Baking chocolate, unsweetened, squares	38
+Cocoa, dry powder, unsweetened	38
+Cocoa, dry powder, unsweetened, processed with alkali	38
+Noodles, egg, cooked, enriched	38
+Fast foods, onion rings, breaded and fried	38
+Noodles, egg, cooked, enriched, with added salt	38
+Noodles, egg, cooked, unenriched, without added salt	38
+Noodles, egg, cooked, unenriched, with added salt	38
+BURGER KING, Onion Rings	38
+Snacks, granola bar, KASHI TLC Bar, chewy, mixed flavors	38
+Snacks, CLIF BAR, mixed flavors	37
+Restaurant, Chinese, sweet and sour chicken	37
+Snacks, KELLOGG'S, NUTRI-GRAIN Cereal Bars, fruit	37
+Cookies, raisin, soft-type	37
+Muffins, blueberry, commercially prepared (Includes mini-muffins)	37
+Bread, reduced-calorie, rye	37
+Potatoes, mashed, dehydrated, granules with milk, dry form	37
+Potatoes, mashed, dehydrated, flakes without milk, dry form	37
+Corn, sweet, white, canned, cream style, regular pack	37
+Corn, sweet, white, canned, cream style, no salt added	37
+Peach nectar, canned, without added ascorbic acid	37
+Chicken, broilers or fryers, giblets, cooked, simmered	37
+Soup, chunky beef, canned, ready-to-serve	36
+Soup, black bean, canned, condensed	36
+Soup, bean & ham, canned, reduced sodium, prepared with water or ready-to-serve	36
+Soup, tomato vegetable, dry, mix, prepared with water	36
+Babyfood, fruit, pears, strained	36
+Babyfood, dinner, vegetables and chicken, junior	36
+Eggplant, raw	36
+Doughnuts, yeast-leavened, glazed, enriched (includes honey buns)	36
+Bread, pan dulce, sweet yeast bread	36
+Burrito, bean and cheese, frozen	36
+Restaurant, Chinese, lemon chicken	36
+Grape juice, canned or bottled, unsweetened, without added ascorbic acid	35
+Soup, vegetable with beef broth, canned, condensed	35
+Babyfood, beverage, GERBER GRADUATE FRUIT SPLASHERS	34
+Babyfood, dinner, vegetables and lamb, strained	34
+Grapefruit juice, white, frozen concentrate, unsweetened, undiluted	34
+Pears, canned, water pack, solids and liquids	34
+Pears, canned, juice pack, solids and liquids	34
+Pears, canned, light syrup pack, solids and liquids	34
+Pears, canned, heavy syrup pack, solids and liquids	34
+Cereals, MALTEX, cooked with water, with salt	34
+Corn, sweet, white, raw	34
+Pizza, cheese topping, regular crust, frozen, cooked	34
+Cocoa, dry powder, hi-fat or breakfast, plain	34
+Cookies, oatmeal, commercially prepared, fat-free	34
+Ice creams, vanilla, rich	34
+Frozen novelties, fruit and juice bars	34
+Crackers, cheese, regular	34
+Crackers, cheese, low sodium	34
+Doughnuts, yeast-leavened, with creme filling	33
+Snacks, granola bars, soft, coated, milk chocolate coating, peanut butter	33
+Cake, cherry fudge with chocolate frosting	33
+Cocoa, dry powder, hi-fat or breakfast, processed with alkali	33
+Pie fillings, blueberry, canned	33
+Peaches, canned, heavy syrup, drained	33
+Juice, apple and grape blend, with added ascorbic acid	33
+Cranberries, dried, sweetened	33
+Baby food, fortified cereal bar, fruit filling	33
+Soup, clam chowder, manhattan style, canned, chunky, ready-to-serve	33
+Soup, chicken vegetable with potato and cheese, chunky, ready-to-serve	33
+Sauce, tomato chili sauce, bottled, no salt, low sodium	33
+Soup, tomato, dry, mix, prepared with water	32
+Babyfood, oatmeal cereal with fruit, dry, instant, toddler	32
+Babyfood, dinner, chicken noodle, junior	32
+Babyfood, fruit, pears and pineapple, junior	32
+Figs, dried, uncooked	32
+Onions, dehydrated flakes	32
+Corn, sweet, white, canned, whole kernel, no salt added, solids and liquids	32
+Granola bar, soft, milk chocolate coated, peanut butter	32
+Snacks, granola bar, QUAKER, chewy, 90 Calorie Bar	32
+Cabbage, japanese style, fresh, pickled	32
+Chocolate, dark, 60-69% cacao solids	32
+Tortellini, pasta with cheese filling, fresh-refrigerated, as purchased	32
+Bread, reduced-calorie, white	32
+Candies, MARS SNACKFOOD US, TWIX Peanut Butter Cookie Bars	31
+Cookies, oatmeal, commercially prepared, regular	31
+Pie crust, cookie-type, prepared from recipe, graham cracker, chilled	31
+Salad, grape and apple with yogurt and candied walnuts	31
+Fast foods, hamburger; double, large patty; with condiments, vegetables and mayonnaise	31
+Candies, chocolate, dark, NFS (45-59% cacao solids 90%; 60-69% cacao solids 5%; 70-85% cacao solids 5%)	31
+Chocolate, dark, 45- 59% cacao solids	31
+Peppers, sweet, red, frozen, chopped, boiled, drained, without salt	31
+Peppers, sweet, red, frozen, chopped, boiled, drained, with salt	31
+Tomato products, canned, sauce, with mushrooms	31
+Cauliflower, frozen, unprepared	31
+Cereals, oats, instant, fortified, with cinnamon and spice, prepared with water	31
+Cereals, MALTEX, cooked with water, without salt	31
+Babyfood, fruit, plums with tapioca, without ascorbic acid, strained	30
+Plantains, raw	30
+Cabbage, raw	30
+Potatoes, baked, skin, without salt	30
+Potatoes, white, flesh and skin, baked	30
+Tomato products, canned, sauce, with onions, green peppers, and celery	30
+Potato, baked, flesh and skin, without salt	30
+Potatoes, baked, flesh and skin, with salt	30
+Potatoes, baked, skin, with salt	30
+Seeds, pumpkin and squash seed kernels, roasted, without salt	30
+Hominy, canned, white	30
+Fast Food, Pizza Chain, 14" pizza, cheese topping, thin crust	30
+Seeds, pumpkin and squash seed kernels, roasted, with salt added	30
+Pie crust, cookie-type, prepared from recipe, graham cracker, baked	29
+Cabbage, mustard, salted	29
+Salad dressing, bacon and tomato	29
+Orange juice drink	29
+Salad dressing, peppercorn dressing, commercial, regular	29
+Cauliflower, cooked, boiled, drained, with salt	29
+Cauliflower, cooked, boiled, drained, without salt	29
+Apples, raw, with skin	29
+Babyfood, fruit, plums with tapioca, without ascorbic acid, junior	29
+Babyfood, juice, apple and peach	29
+Salad dressing, thousand island, commercial, regular	29
+Salad dressing, ranch dressing, commercial, regular	29
+Soup, chicken gumbo, canned, prepared with equal volume water	28
+Babyfood, fruit, applesauce and apricots, strained	28
+Plantains, cooked	28
+Apples, raw, golden delicious, with skin	28
+Formulated bar, LUNA BAR, NUTZ OVER CHOCOLATE	28
+Fast foods, griddle cake sandwich, sausage	28
+Amaranth, uncooked	28
+Cookies, sugar, prepared from recipe, made with margarine	28
+English muffins, raisin-cinnamon, toasted (includes apple-cinnamon)	28
+Pie crust, cookie-type, prepared from recipe, vanilla wafer, chilled	27
+Cake, boston cream pie, commercially prepared	27
+Citrus fruit juice drink, frozen concentrate, prepared with water	27
+Chocolate, dark, 70-85% cacao solids	27
+McDONALD'S, French Fries	27
+Fast foods, potato, french fried in vegetable oil	27
+Fast foods, hamburger; single, regular patty; with condiments	27
+Frozen novelites, juice type, juice with cream	27
+Orange juice, chilled, includes from concentrate	27
+Orange juice, chilled, includes from concentrate, fortified with calcium and vitamin D	27
+Orange juice, chilled, includes from concentrate, fortified with calcium	27
+Melons, honeydew, raw	27
+Cabbage, cooked, boiled, drained, without salt	27
+Feijoa, raw	27
+Potatoes, red, flesh and skin, baked	27
+Cabbage, common, cooked, boiled, drained, with salt	27
+Salad dressing, mayonnaise, light	27
+Soup, clam chowder, manhattan, canned, condensed	27
+Soup, onion, dry, mix	27
+Soup, gazpacho, canned, ready-to-serve	26
+Salad dressing, blue or roquefort cheese dressing, commercial, regular	26
+Babyfood, juice, apple and cherry	26
+Babyfood, dinner, beef stew, toddler	26
+Strawberries, raw	26
+Strawberries, frozen, unsweetened	26
+Melons, cantaloupe, raw	26
+Melons, casaba, raw	26
+Apricots, canned, water pack, with skin, solids and liquids	26
+Apricots, canned, juice pack, with skin, solids and liquids	26
+Apricots, canned, light syrup pack, with skin, solids and liquids	26
+Apricots, canned, heavy syrup pack, with skin, solids and liquids	26
+Fast Food, Pizza Chain, 14" pizza, meat and vegetable topping, regular crust	26
+Couscous, cooked	25
+Babyfood, fruit, tutti frutti, junior	25
+English muffins, raisin-cinnamon (includes apple-cinnamon)	25
+Cookies, sugar wafers with creme filling, regular	25
+Bread, wheat, white wheat	25
+Garlic bread, frozen	25
+Papaya nectar, canned	25
+Apples, dehydrated (low moisture), sulfured, uncooked	25
+Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K	25
+Babyfood, fruit, apple and blueberry, strained	24
+Cereals, oats, instant, fortified, with raisins and spice, prepared with water	24
+Pears, dried, sulfured, stewed, without added sugar	24
+Cauliflower, frozen, cooked, boiled, drained, without salt	24
+Cauliflower, frozen, cooked, boiled, drained, with salt	24
+Doughnuts, cake-type, plain, chocolate-coated or frosted	24
+Fast Food, Pizza Chain, 14" pizza, pepperoni topping, thin crust	24
+Pizza, cheese topping, rising crust, frozen, cooked	24
+Fast Food, Pizza Chain, 14" pizza, pepperoni topping, regular crust	24
+Fast Food, Pizza Chain, 14" pizza, pepperoni topping, thick crust	23
+Fast Food, Pizza Chain, 14" pizza, sausage topping, regular crust	23
+Tomato sauce, canned, no salt added	23
+Pie Crust, Cookie-type, Graham Cracker, Ready Crust	23
+Candies, KIT KAT Wafer Bar	23
+Nuts, cashew nuts, dry roasted, with salt added	23
+Nuts, cashew nuts, oil roasted, with salt added	23
+Nuts, cashew butter, plain, with salt added	23
+Tomato products, canned, sauce	23
+Nuts, cashew nuts, dry roasted, without salt added	23
+Nuts, cashew nuts, oil roasted, without salt added	23
+Cucumber, with peel, raw	23
+Strawberries, frozen, sweetened, whole	23
+Dates, medjool	23
+Mangos, raw	23
+Cereals, MAYPO, cooked with water, with salt	23
+Babyfood, dinner, beef noodle, strained	23
+Cheese food, pasteurized process, American, without added vitamin D	23
+Soup, vegetable soup, condensed, low sodium, prepared with equal volume water	23
+Babyfood, juice, apple and prune	22
+Bananas, raw	22
+Breadfruit, raw	22
+Nuts, cashew nuts, raw	22
+Nuts, mixed nuts, oil roasted, without peanuts, with salt added	22
+Waffles, chocolate chip, frozen, ready-to-heat	22
+Cookies, butter, commercially prepared, enriched	22
+Salad dressing, caesar dressing, regular	22
+Soup, hot and sour, Chinese restaurant	22
+Restaurant, Chinese, sweet and sour pork	22
+Restaurant, Chinese, fried rice	22
+Fast Food, Pizza Chain, 14" pizza, sausage topping, thick crust	22
+Fast Food, Pizza Chain, 14" pizza, sausage topping, thin crust	22
+Fast Food, Pizza Chain, 14" pizza, cheese topping, thick crust	22
+Fast foods, cheeseburger; single, regular patty, with condiments	22
+Fast foods, cheeseburger; single, regular patty, with condiments and vegetables	22
+Fast foods, english muffin, with cheese and sausage	22
+Jellies	22
+Fast foods, hamburger, large, single patty, with condiments	21
+Mayonnaise, made with tofu	21
+Babyfood, fruit, tutti frutti, strained	21
+Babyfood, juice, apple - cherry	21
+Cake, fruitcake, commercially prepared	21
+Nuts, mixed nuts, dry roasted, with peanuts, with salt added	21
+Strawberries, frozen, sweetened, sliced	21
+Potatoes, red, flesh and skin, raw	21
+Apples, raw, without skin, cooked, microwave	21
+Babyfood, juice, mixed fruit	21
+Babyfood, juice, apple and plum	21
+Babyfood, juice, fruit punch, with calcium	21
+Babyfood, fruit, apple and raspberry, strained	21
+Babyfood, fruit, apple and raspberry, junior	21
+Cheese, pasteurized process, American, fortified with vitamin D	21
+Soup, tomato beef with noodle, canned, prepared with equal volume water	21
+Soup, ramen noodle, any flavor, dry	20
+Chicken, broilers or fryers, dark meat, thigh, meat and skin, cooked, braised	20
+Egg, white, raw, frozen, pasteurized	20
+Egg, white, dried, stabilized, glucose reduced	20
+Babyfood, cherry cobbler, junior	20
+Cereals, MAYPO, cooked with water, without salt	20
+Pear nectar, canned, without added ascorbic acid	20
+Cabbage, red, cooked, boiled, drained, without salt	20
+Cabbage, red, cooked, boiled, drained, with salt	20
+Clam and tomato juice, canned	20
+Doughnuts, cake-type, chocolate, sugared or glazed	20
+Muffins, blueberry, toaster-type, toasted	20
+Pie, pumpkin, commercially prepared	20
+Pie, cherry, commercially prepared	20
+Babyfood, banana no tapioca, strained	20
+Soup, clam chowder, new england, canned, ready-to-serve	20
+Soup, clam chowder, new england, reduced sodium, canned, ready-to-serve	20
+Sauce, barbecue, OPEN PIT, original	19
+Babyfood, dessert, banana pudding, strained	19
+Cranberry-apple juice drink, low calorie, with vitamin C added	19
+Babyfood, mixed fruit yogurt, strained	19
+Snacks, sesame sticks, wheat-based, salted	19
+Muffins, blueberry, toaster-type	19
+Desserts, apple crisp, prepared-from-recipe	19
+Grape juice drink, canned	19
+Potatoes, Russet, flesh and skin, baked	19
+Rutabagas, raw	19
+Apples, raw, without skin, cooked, boiled	19
+Babyfood, apples, dices, toddler	19
+Mustard, prepared, yellow	18
+Cheese, pasteurized process, pimento	18
+Soup, chicken with dumplings, canned, condensed	18
+Soup, vegetable with beef broth, canned, prepared with equal volume water	18
+CAMPBELL'S CHUNKY Soups, New England Clam Chowder	18
+Soup, black bean, canned, prepared with equal volume water	18
+Split pea with ham soup, canned, reduced sodium, prepared with water or ready-to-serve	18
+Apples, dried, sulfured, uncooked	18
+Apples, canned, sweetened, sliced, drained, unheated	18
+Apples, canned, sweetened, sliced, drained, heated	18
+Apples, raw, without skin	18
+Lemon peel, raw	18
+Applesauce, canned, unsweetened, without added ascorbic acid (includes USDA commodity)	18
+Applesauce, canned, sweetened, without salt (includes USDA commodity)	18
+Strawberries, canned, heavy syrup pack, solids and liquids	18
+Candies, semisweet chocolate	18
+Candies, sweet chocolate	18
+Crackers, matzo, plain	18
+Bread stuffing, bread, dry mix, prepared	18
+Spaghetti, dry, enriched	18
+Macaroni, dry, enriched	18
+Wheat flour, white, all-purpose, enriched, bleached	18
+Wheat flour, white, all-purpose, self-rising, enriched	18
+Wheat flour, white (industrial), 9% protein, bleached, enriched	18
+Wheat flour, white (industrial), 9% protein, bleached, unenriched	18
+Wheat flour, white (industrial), 10% protein, bleached, enriched	18
+Wheat flour, white (industrial), 10% protein, bleached, unenriched	18
+Wheat flour, white (industrial), 10% protein, unbleached, enriched	18
+Wheat flour, white (industrial), 11.5% protein, bleached, enriched	18
+Wheat flour, white (industrial), 11.5% protein, bleached, unenriched	18
+Wheat flour, white (industrial), 11.5% protein, unbleached, enriched	18
+Wheat flour, white (industrial), 13% protein, bleached, enriched	18
+Wheat flour, white (industrial), 13% protein, bleached, unenriched	18
+Wheat flour, white (industrial), 15% protein, bleached, enriched	18
+Wheat flour, white (industrial), 15% protein, bleached, unenriched	18
+Wheat flour, white, all-purpose, unenriched	18
+Bread, blue corn, somiviki (Hopi)	18
+Babyfood, mixed fruit juice with low fat yogurt	18
+Pretzels, soft, unsalted	17
+Pretzels, soft	17
+Fast foods, cheeseburger; single, large patty; with condiments	17
+Fast foods, cheeseburger; double, regular patty; with condiments	17
+Fruit butters, apple	17
+Crackers, saltines (includes oyster, soda, soup)	17
+Ice cream cones, cake or wafer-type	17
+Crackers, saltines, low salt (includes oyster, soda, soup)	17
+Bread, potato	17
+Nuts, pecans	17
+Potatoes, french fried, shoestring, salt added in processing, frozen, oven-heated	17
+Acerola juice, raw	17
+Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted	17
+Babyfood, fruit, applesauce, strained	17
+Babyfood, cereal, oatmeal, with applesauce and bananas, junior	17
+Zwieback	16
+Babyfood, dinner, apples and chicken, strained	16
+Babyfood, cereal, mixed, prepared with whole milk	16
+Babyfood, juice, apple	16
+Babyfood, apple-banana juice	16
+Cereals, CREAM OF WHEAT, regular, 10 minute cooking, dry	16
+Cereals, farina, enriched, assorted brands including CREAM OF WHEAT, quick (1-3 minutes), dry	16
+Cereals, CREAM OF WHEAT, instant, dry	16
+Apple juice, canned or bottled, unsweetened, without added ascorbic acid	16
+Apple juice, frozen concentrate, unsweetened, diluted with 3 volume water without added ascorbic acid	16
+Potato puffs, frozen, oven-heated	16
+Potatoes, french fried, all types, salt added in processing, frozen, home-prepared, oven heated	16
+Potatoes, hashed brown, home-prepared	16
+Garlic, raw	16
+Juice, apple, grape and pear blend, with added ascorbic acid and calcium	16
+Apple juice, canned or bottled, unsweetened, with added ascorbic acid	16
+Cucumber, peeled, raw	16
+Fruit juice drink, greater than 3% juice, high vitamin C	16
+Fruit juice drink, greater than 3% fruit juice, high vitamin C and added thiamin	16
+Beans, baked, canned, plain or vegetarian	16
+Candies, dark chocolate coated coffee beans	16
+Candies, MARS SNACKFOOD US, SNICKERS Bar	16
+Crackers, milk	16
+Ravioli, cheese-filled, canned	16
+Cheese, cottage, lowfat, 1% milkfat, with vegetables	16
+Cheese, cottage, with vegetables	16
+Snacks, plantain chips, salted	16
+Babyfood, banana juice with low fat yogurt	16
+Soup, ramen noodle, dry, any flavor, reduced fat, reduced sodium	16
+Beans, baked, canned, no salt added	16
+Snacks, pita chips, salted	15
+Snacks, granola bars, soft, almond, confectioners coating	15
+Macaroni and cheese dinner with dry sauce mix, boxed, uncooked	15
+Pie, blueberry, commercially prepared	15
+Pie, peach	15
+Potatoes, french fried, crinkle or regular cut, salt added in processing, frozen, as purchased	15
+Potatoes, french fried, crinkle or regular cut, salt added in processing, frozen, oven-heated	15
+Potato puffs, frozen, unprepared	15
+Lemon juice, raw	15
+Dressing, honey mustard, fat-free	15
+Babyfood, fruit, pears and pineapple, strained	15
+Babyfood, fruit, applesauce and apricots, junior	15
+Babyfood, dessert, dutch apple, strained	15
+Babyfood, apples with ham, strained	14
+Apricot nectar, canned, without added ascorbic acid	14
+Figs, dried, stewed	14
+Potatoes, french fried, shoestring, salt added in processing, frozen, as purchased	14
+Orange Pineapple Juice Blend	14
+Cookies, peanut butter, commercially prepared, regular	14
+Ice cream cones, sugar, rolled-type	14
+Pastry, Pastelitos de Guava (guava pastries)	14
+Beans, baked, canned, with pork and tomato sauce	14
+Noodles, chinese, chow mein	14
+Snacks, bagel chips, plain	14
+Jellies, reduced sugar, home preserved	14
+Fruit-flavored drink, powder, with high vitamin C with other added vitamins, low calorie	13
+Beans, chili, barbecue, ranch style, cooked	13
+Macaroni, vegetable, cooked, enriched	13
+Bread, french or vienna, toasted (includes sourdough)	13
+Doughnuts, cake-type, plain (includes unsugared, old-fashioned)	13
+Pie, mince, prepared from recipe	13
+Rolls, dinner, plain, commercially prepared (includes brown-and-serve)	13
+Muffins, oat bran	13
+Beans, baked, canned, with franks	13
+Nuts, chestnuts, european, roasted	13
+Cranberry juice cocktail, bottled	13
+Potatoes, french fried, all types, salt added in processing, frozen, unprepared	13
+Rutabagas, cooked, boiled, drained, without salt	13
+Potatoes, white, flesh and skin, raw	13
+Rutabagas, cooked, boiled, drained, with salt	13
+Babyfood, yogurt, whole milk, with fruit, multigrain cereal and added iron	13
+Babyfood, fruit and vegetable, apple and sweet potato	13
+Chicken, broilers or fryers, dark meat, drumstick, meat and skin, cooked, braised	13
+Soup, clam chowder, manhattan, canned, prepared with equal volume water	13
+Soup, pepperpot, canned, prepared with equal volume water	13
+Soup, ramen noodle, chicken flavor, dry	12
+Babyfood, fruit, apricot with tapioca, junior	12
+Babyfood, dinner, macaroni and tomato and beef, junior	12
+Babyfood, cereal, barley, prepared with whole milk	12
+Salad dressing, mayonnaise, regular	12
+Babyfood, cereal, mixed, with bananas, prepared with whole milk	12
+Babyfood, cereal, oatmeal, with bananas, prepared with whole milk	12
+Potatoes, french fried, steak fries, salt added in processing, frozen, as purchased	12
+Pineapple and orange juice drink, canned	12
+Mixed vegetable and fruit juice drink, with added nutrients	12
+Dairy drink mix, chocolate, reduced calorie, with low-calorie sweeteners, powder	12
+Tortillas, ready-to-bake or -fry, flour, refrigerated	12
+Crackers, standard snack-type, regular	12
+Pie Crust, Cookie-type, Chocolate, Ready Crust	12
+Tortillas, ready-to-bake or -fry, flour, shelf stable	12
+Bread, french or vienna (includes sourdough)	12
+Yogurt parfait, lowfat, with fruit and granola	12
+Soup, wonton, Chinese restaurant	12
+Cocktail mix, non-alcoholic, concentrated, frozen	12
+Babyfood, dinner, macaroni, beef and tomato sauce, toddler	11
+Babyfood, baked product, finger snacks cereal	11
+Pie fillings, apple, canned	11
+Biscuits, plain or buttermilk, refrigerated dough, lower fat, baked	11
+Cake, chocolate, dry mix, regular	11
+Cookies, chocolate wafers	11
+Coffeecake, cinnamon with crumb topping, dry mix	11
+Crackers, standard snack-type, regular, low salt	11
+Toaster pastries, fruit (includes apple, blueberry, cherry, strawberry)	11
+Phyllo dough	11
+Beverage, Horchata, dry mix, unprepared, variety of brands, all with morro seeds	11
+Malted drink mix, chocolate, with added nutrients, powder	11
+Beef, cured, pastrami	11
+Candied fruit	11
+Lemon juice, canned or bottled	11
+Lemons, raw, without peel	11
+Figs, canned, heavy syrup pack, solids and liquids	11
+Cereals ready-to-eat, KELLOGG, SMORZ	11
+Babyfood, dessert, dutch apple, junior	11
+Babyfood, fruit, apricot with tapioca, strained	11
+Babyfood, fruit, bananas and pineapple with tapioca, strained	11
+Turkey sausage, fresh, raw	11
+Turkey sausage, fresh, cooked	11
+Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted	11
+Soup, cream of onion, canned, condensed	10
+HEALTHY REQUEST, Chicken with Rice, condensed	10
+Gravy, pork, dry, powder	10
+Sauce, ready-to-serve, pepper, TABASCO	10
+Soup, ramen noodle, beef flavor, dry	10
+Gravy, brown instant, dry	10
+Soup, chicken with dumplings, canned, prepared with equal volume water	10
+Babyfood, fruit, bananas with apples and pears, strained	10
+Horseradish, prepared	10
+Babyfood, cereal, mixed, with applesauce and bananas, strained	10
+Babyfood, cereal, mixed, with applesauce and bananas, junior	10
+Grapefruit, raw, white, all areas	10
+Grapefruit juice, white, frozen concentrate, unsweetened, diluted with 3 volume water	10
+Grapefruit juice, white, raw	10
+Grapefruit juice, white, canned, unsweetened	10
+Grapefruit juice, white, canned, sweetened	10
+Radishes, raw	10
+Beans, baked, canned, with pork and sweet sauce	10
+Pie crust, standard-type, prepared from recipe, baked	10
+Crackers, standard snack-type, sandwich, with cheese filling	10
+Crackers, standard snack-type, sandwich, with peanut butter filling	10
+Chocolate-flavored hazelnut spread	10
+Biscuits, plain or buttermilk, refrigerated dough, lower fat	10
+Fast foods, shrimp, breaded and fried	10
+Tortilla, blue corn, Sakwavikaviki (Hopi)	10
+Babyfood, banana apple dessert, strained	10
+Puddings, chocolate flavor, low calorie, regular, dry mix	9
+Piki bread, made from blue cornmeal (Hopi)	9
+Snacks, granola bar, GENERAL MILLS NATURE VALLEY, SWEET&SALTY NUT, peanut	9
+Jams and preserves, apricot	9
+Biscuits, plain or buttermilk, frozen, baked	9
+Cake, snack cakes, creme-filled, sponge	9
+Toppings, strawberry	9
+Puddings, rice, ready-to-eat	9
+Crackers, saltines, fat-free, low-sodium	9
+Crackers, cheese, sandwich-type with cheese filling	9
+Snacks, pretzels, hard, plain, salted	9
+Cookies, sugar, refrigerated dough, baked	9
+Pie, apple, commercially prepared, enriched flour	9
+Pie, lemon meringue, commercially prepared	9
+Pie crust, standard-type, prepared from recipe, unbaked	9
+Orange drink, canned, with added vitamin C	9
+Cocoa mix, no sugar added, powder	9
+Nuts, pine nuts, dried	9
+Nuts, walnuts, black, dried	9
+Nuts, walnuts, english	9
+Potatoes, boiled, cooked in skin, flesh, without salt	9
+Potatoes, boiled, cooked without skin, flesh, without salt	9
+Potatoes, boiled, cooked in skin, flesh, with salt	9
+Potatoes, boiled, cooked without skin, flesh, with salt	9
+Figs, raw	9
+Babyfood, dessert, cherry vanilla pudding, strained	9
+Babyfood, dessert, cherry vanilla pudding, junior	9
+Babyfood, cookies	9
+Babyfood, fruit, applesauce, junior	9
+Gravy, mushroom, dry, powder	9
+Soup, bean with pork, canned, condensed	9
+Soup, vegetable beef, dry, mix, prepared with water	8
+Soup, chicken noodle, dry, mix, prepared with water	8
+Babyfood, fruit, applesauce with banana, junior	8
+Yogurt, fruit variety, nonfat, fortified with vitamin D	8
+Figs, canned, light syrup pack, solids and liquids	8
+Nuts, mixed nuts, oil roasted, with peanuts, lightly salted	8
+Shallots, raw	8
+Potatoes, mashed, home-prepared, whole milk added	8
+Potato, flesh and skin, raw	8
+Potatoes, frozen, whole, unprepared	8
+Watermelon, raw	8
+Nuts, mixed nuts, oil roasted, with peanuts, with salt added	8
+Nuts, mixed nuts, oil roasted, with peanuts, without salt added	8
+Orange breakfast drink, ready-to-drink, with added nutrients	8
+Pie crust, cookie-type, prepared from recipe, chocolate wafer, chilled	8
+Pie, fried pies, fruit	8
+Cookies, sugar, refrigerated dough	8
+Cookies, fig bars	8
+Biscuits, plain or buttermilk, refrigerated dough, higher fat	8
+Yogurt, fruit variety, nonfat	8
+Babyfood, rice and apples, dry	8
+Puddings, chocolate flavor, low calorie, instant, dry mix	7
+Babyfood, apple yogurt dessert, strained	7
+Spaghetti, cooked, enriched, without added salt	7
+Macaroni, cooked, enriched	7
+Fast foods, potato, mashed	7
+Macaroni, cooked, unenriched	7
+Spaghetti, cooked, enriched, with added salt	7
+Spaghetti with meat sauce, frozen entree	7
+Biscuits, plain or buttermilk, refrigerated dough, higher fat, baked	7
+Cookies, chocolate sandwich, with extra creme filling	7
+Cookies, peanut butter sandwich, regular	7
+Crackers, cheese, sandwich-type with peanut butter filling	7
+Sherbet, orange	7
+Toaster Pastries, fruit, frosted (include apples, blueberry, cherry, strawberry)	7
+Baking chocolate, mexican, squares	7
+Malted drink mix, natural, powder	7
+Potatoes, mashed, dehydrated, prepared from granules with milk, water and margarine added	7
+Potatoes, mashed, home-prepared, whole milk and margarine added	7
+Potatoes, mashed, home-prepared, whole milk and butter added	7
+Figs, canned, water pack, solids and liquids	7
+Lemon juice, frozen, unsweetened, single strength	7
+Soup, cream of chicken, canned, condensed, reduced sodium	7
+Soup, chicken noodle, canned, condensed	7
+Soup, chicken with rice, canned, condensed	6
+Gravy, instant turkey, dry	6
+CAMPBELL'S Red and White, Cream of Mushroom Soup, condensed	6
+Ice cream sandwich	6
+Ice cream cookie sandwich	6
+Babyfood, fruit, bananas with tapioca, junior	6
+Babyfood, yogurt, whole milk, with fruit, multigrain cereal and added DHA	6
+Grapefruit, raw, pink and red and white, all areas	6
+Cherimoya, raw	6
+Onions, sweet, raw	6
+Cranberry-apple juice drink, bottled	6
+Alcoholic beverage, wine, table, red	6
+Chocolate-flavor beverage mix for milk, powder, without added nutrients	6
+Coffee and cocoa (mocha) powder, with whitener and low calorie sweetener, decaffeinated	6
+Candies, milk chocolate	6
+Candies, milk chocolate, with almonds	6
+Candies, milk chocolate, with rice cereal	6
+Candies, MARS SNACKFOOD US, STARBURST Fruit Chews, Original fruits	6
+Candies, praline, prepared-from-recipe	6
+Cinnamon buns, frosted (includes honey buns)	6
+Doughnuts, french crullers, glazed	6
+Cookies, brownies, commercially prepared	6
+Fast foods, biscuit, with sausage	6
+Fast foods, hush puppies	6
+Corn flour, masa, unenriched, white	6
+Corn flour, masa, enriched, white	6
+Candies, fudge, chocolate marshmallow, with nuts, prepared-by-recipe	6
+Restaurant, family style, fried mozzarella sticks	6
+Potatoes, canned, drained solids, no salt added	6
+Candies, chocolate covered, dietetic or low calorie	6
+Babyfood, juice, apple-sweet potato	6
+Candies, MARS SNACKFOOD US, MILKY WAY Midnight Bar	6
+Candies, milk chocolate coated coffee beans	5
+Candies, fudge, chocolate marshmallow, prepared-from-recipe	5
+Fast foods, burrito, with beans and cheese	5
+Fast foods, biscuit, with ham	5
+Cornmeal, degermed, enriched, white	5
+Cornmeal, whole-grain, white	5
+Corn flour, whole-grain, white	5
+Cornmeal, degermed, unenriched, white	5
+Pasta with Sliced Franks in Tomato Sauce, canned entree	5
+Beef, corned beef hash, with potato, canned	5
+Fast foods, quesadilla, with chicken	5
+Cake, white, prepared from recipe without frosting	5
+Candies, MARS SNACKFOOD US, TWIX Caramel Cookie Bars	5
+Puddings, chocolate, dry mix, regular	5
+Candies, MOUNDS Candy Bar	5
+Candies, MR. GOODBAR Chocolate Bar	5
+Candies, fudge, chocolate, with nuts, prepared-from-recipe	5
+Cocoa mix, powder	5
+Potatoes, russet, flesh and skin, raw	5
+Grapefruit, raw, pink and red, all areas	5
+Cereals, corn grits, white, regular and quick, unenriched, dry	5
+Babyfood, dinner, potatoes with cheese and ham, toddler	5
+Cereals, QUAKER, corn grits, instant, plain, dry	5
+Cereals, corn grits, white, regular and quick, enriched, dry	5
+Soup, cream of potato, canned, condensed	5
+Soup, cream of mushroom, canned, condensed	4
+Soup, beef noodle, canned, condensed	4
+Cereals, QUAKER, corn grits, instant, cheddar cheese flavor, dry	4
+Soup, chicken noodle, low sodium, canned, prepared with equal volume water	4
+Soup, bean with pork, canned, prepared with equal volume water	4
+Soup, chicken noodle, canned, prepared with equal volume water	4
+Salad dressing, ranch dressing, fat-free	4
+Salad dressing, honey mustard dressing, reduced calorie	4
+Babyfood, cereal, rice, with applesauce and bananas, strained	4
+Babyfood, cereal, rice, with mixed fruit, junior	4
+Ice cream cone, chocolate covered, with nuts, flavors other than chocolate	4
+Cheese, dry white, queso seco	4
+Apples, dried, sulfured, stewed, without added sugar	4
+Papaya, canned, heavy syrup, drained	4
+Potatoes, mashed, dehydrated, prepared from flakes without milk, whole milk and butter added	4
+Onions, frozen, whole, unprepared	4
+Onions, raw	4
+Onions, cooked, boiled, drained, without salt	4
+Onions, cooked, boiled, drained, with salt	4
+Coffee, instant, with sugar, mocha-flavor, powder	4
+Lemonade, powder	4
+Grape drink, canned	4
+Lemonade, frozen concentrate, white	4
+Candies, milk chocolate coated peanuts	4
+Puddings, chocolate, dry mix, instant	4
+Breakfast tart, low fat	4
+Candies, fudge, chocolate, prepared-from-recipe	4
+Candies, sweet chocolate coated fondant	4
+Snacks, tortilla chips, plain, white corn	4
+Cake, marble, dry mix, pudding-type	4
+Cookies, chocolate sandwich, with creme filling, regular	4
+Cake, white, prepared from recipe with coconut frosting	4
+Cake, chocolate, dry mix, pudding-type	4
+Cake mix, pudding, dry, german chocolate	4
+Beef stew, canned entree	4
+Macaroni and cheese, frozen entree	4
+Fast foods, burrito, with beans and beef	4
+Fast foods, french toast sticks	4
+Syrups, chocolate, fudge-type	4
+Candies, MARS SNACKFOOD US, TWIX chocolate fudge cookie bars	4
+Creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie, fat-free	4
+Restaurant, Latino, arepa (unleavened cornmeal bread)	4
+Babyfood, dessert, banana yogurt, strained	4
+Toppings, nuts in syrup	3
+Syrups, chocolate, HERSHEY'S Genuine Chocolate Flavored Lite Syrup	3
+Candies, soft fruit and nut squares	3
+Wheat flour, white, cake, enriched	3
+Cake, gingerbread, dry mix	3
+Cake, chocolate, commercially prepared with chocolate frosting, in-store bakery	3
+Cake mix, dry, white, regular	3
+Cake, snack cakes, creme-filled, chocolate with frosting	3
+Candies, milk chocolate coated raisins	3
+Cookies, chocolate chip, commercially prepared, special dietary	3
+Cookies, fortune	3
+Cookies, marshmallow, chocolate-coated (includes marshmallow pies)	3
+Tortillas, ready-to-bake or -fry, corn	3
+Cranberry juice cocktail, bottled, low calorie, with calcium, saccharin and corn sweetener	3
+Coffee substitute, cereal grain beverage, prepared with water	3
+Chocolate syrup	3
+Onions, frozen, chopped, cooked, boiled, drained, with salt	3
+Onions, frozen, whole, cooked, boiled, drained, with salt	3
+Onions, frozen, whole, cooked, boiled, drained, without salt	3
+Onions, frozen, chopped, cooked, boiled, drained, without salt	3
+Cereals ready-to-eat, KELLOGG, KELLOGG'S Cinnamon MINI SWIRLZ	3
+Cheese, fresh, queso fresco	3
+Cheese, white, queso blanco	3
+Babyfood, cereal, rice, with bananas, prepared with whole milk	3
+Soup, chicken with rice, canned, prepared with equal volume water	3
+Cereals, CREAM OF WHEAT, instant, prepared with water, without salt	3
+Soup, clam chowder, new england, canned, condensed	3
+Soup, tomato rice, canned, condensed	3
+Chicken, stewing, meat and skin, and giblets and neck, cooked, stewed	3
+Sauce, homemade, white, thick	2
+Cereals, farina, enriched, cooked with water, without salt	2
+Cereals, CREAM OF WHEAT, regular (10 minute), cooked with water, without salt	2
+Soup, clam chowder, new england, canned, prepared with equal volume water	2
+Soup, cream of mushroom, canned, prepared with equal volume water	2
+Soup, beef noodle, canned, prepared with equal volume water	2
+Soup, cream of mushroom, canned, prepared with equal volume low fat (2%) milk	2
+Gravy, instant beef, dry	2
+Ice cream sandwich, made with light ice cream, vanilla	2
+Ice cream sandwich, vanilla, light, no sugar added	2
+Babyfood, juice treats, fruit medley, toddler	2
+Babyfood, macaroni and cheese, toddler	2
+Babyfood, fruit, bananas and pineapple with tapioca, junior	2
+Cereals, CREAM OF WHEAT, regular (10 minute), cooked with water, with salt	2
+Cereals, farina, enriched, cooked with water, with salt	2
+Onions, canned, solids and liquids	2
+Eggnog-flavor mix, powder, prepared with whole milk	2
+Fruit punch drink, with added nutrients, canned	2
+Malted drink mix, chocolate, powder	2
+Fruit flavored drink, reduced sugar, greater than 3% fruit juice, high vitamin C, added calcium	2
+Vegetable and fruit juice drink, reduced calorie, with low-calorie sweetener, added vitamin C	2
+Beverages, vegetable and fruit juice blend, 100% juice, with added vitamins A, C, E	2
+Fish, sardine, Pacific, canned in tomato sauce, drained solids with bone	2
+Cake, pound, commercially prepared, fat-free	2
+Cookies, molasses	2
+Cookies, gingersnaps	2
+Cookies, chocolate sandwich, with creme filling, special dietary	2
+Candies, NESTLE, 100 GRAND Bar	2
+Candies, REESE'S Peanut Butter Cups	2
+Snacks, corn-based, extruded, puffs or twists, cheese-flavor	2
+Cookies, animal crackers (includes arrowroot, tea biscuits)	2
+Biscuits, plain or buttermilk, dry mix	2
+Fast foods, chicken, breaded and fried, boneless pieces, plain	2
+Macaroni and Cheese, canned entree	2
+Fast foods, chicken tenders	2
+Ice creams, chocolate, rich	2
+Sauce, cocktail, ready-to-serve	2
+Snacks, candy bits, yogurt covered with vitamin C	2
+Formulated bar, ZONE PERFECT CLASSIC CRUNCH BAR, mixed flavors	2
+Sauce, duck, ready-to-serve	1
+Stew, pinto bean and hominy, badufsuki (Hopi)	1
+Papad	1
+Salad Dressing, coleslaw dressing, reduced fat	1
+Candies, nougat, with almonds	1
+Chocolate-flavored drink, whey and milk based	1
+Cheese food, pasteurized process, American, imitation, without added vitamin D	1
+Pasta with meatballs in tomato sauce, canned entree	1
+Fast foods, vanilla, light, soft-serve ice cream, with cone	1
+Candies, sugar-coated almonds	1
+Frostings, glaze, chocolate, prepared-from-recipe, with butter, NFSMI Recipe No. C-32	1
+Candies, MARS SNACKFOOD US, SKITTLES Original Bite Size Candies	1
+Cookies, chocolate sandwich, with creme filling, regular, chocolate-coated	1
+Cookies, chocolate chip, commercially prepared, regular, higher fat, enriched	1
+Cake, yellow, dry mix, pudding-type	1
+Cake, yellow, dry mix, regular, enriched	1
+Cake, white, dry mix, pudding-type, enriched	1
+Cake, angelfood, dry mix, prepared	1
+Hummus, home prepared	1
+Candies, caramels, chocolate-flavor roll	1
+Candies, fudge, vanilla with nuts	1
+Candies, MARS SNACKFOOD US, 3 MUSKETEERS Bar	1
+Candies, MARS SNACKFOOD US, MILKY WAY Bar	1
+Ice creams, chocolate, light	1
+Frostings, coconut-nut, ready-to-eat	1
+Puddings, chocolate, ready-to-eat, fat free	1
+Puddings, chocolate, dry mix, regular, prepared with whole milk	1
+Puddings, chocolate, dry mix, regular, prepared with 2% milk	1
+Puddings, chocolate, ready-to-eat	1
+Cookies, sugar, commercially prepared, special dietary	1
+Cookies, vanilla sandwich with creme filling	1
+English muffins, mixed-grain (includes granola)	1
+English muffins, mixed-grain, toasted (includes granola)	1
+Pie crust, standard-type, frozen, ready-to-bake, enriched	1
+Pie crust, standard-type, frozen, ready-to-bake, enriched, baked	1
+Dairy drink mix, chocolate, reduced calorie, with aspartame, powder, prepared with water and ice	1
+Orange-flavor drink, breakfast type, powder	1
+Malted drink mix, chocolate, powder, prepared with whole milk	1
+Malted drink mix, chocolate, with added nutrients, powder, prepared with whole milk	1
+Pineapple and grapefruit juice drink, canned	1
+Cocoa mix, with aspartame, powder, prepared with water	1
+Lemonade, frozen concentrate, white, prepared with water	1
+Cocoa mix, powder, prepared with water	1
+Shake, fast food, chocolate	1
+Nuts, almond butter, plain, with salt added	1
+Nuts, almond butter, plain, without salt added	1
+Nuts, almonds, dry roasted, with salt added	1
+Nuts, almonds, oil roasted, with salt added	1
+Celeriac, raw	1
+Cauliflower, raw	1
+Nuts, almonds	1
+Nuts, almonds, blanched	1
+Nuts, almonds, dry roasted, without salt added	1
+Nuts, almonds, oil roasted, without salt added	1
+Nuts, almond paste	1
+Cereals, corn grits, white, regular and quick, enriched, cooked with water, with salt	1
+Cereals, corn grits, white, regular and quick, unenriched, cooked with water, without salt	1
+Babyfood, dinner, macaroni and cheese, junior	1
+Milk dessert bar, frozen, made from lowfat milk	1
+Cream substitute, flavored, liquid	1
+Cream substitute, flavored, powdered	1
+Soup, tomato rice, canned, prepared with equal volume water	1
+Soup, onion, dry, mix, prepared with water	1
+Soup, oxtail, dry, mix, prepared with water	1
+Soup, chicken rice, dry, mix, prepared with water	1
+Sauce, white, thin, prepared-from-recipe, with butter	1
+Sauce, sweet and sour, prepared-from-recipe	1
+Soup, clam chowder, new england, canned, prepared with equal volume low fat (2%) milk	1
+Cereals, corn grits, white, regular and quick, enriched, cooked with water, without salt	1
+Cereals ready-to-eat, POST, COCOA PEBBLES	1
+Gravy, meat or poultry, low sodium, prepared	1
+Sauce, tomato chili sauce, bottled, with salt	1
+Sauce, homemade, white, thin	1
+Sauce, homemade, white, medium	1
+Soup, stock, beef, home-prepared	1
+Soup, stock, chicken, home-prepared	1
+Soup, chicken mushroom, canned, condensed	1
+Gravy, turkey, canned, ready-to-serve	1
+Gravy, beef, canned, ready-to-serve	1
+Gravy, chicken, canned, ready-to-serve	1
+Soup, onion, canned, condensed	1
+Soup, cream of chicken, canned, condensed	1
+Soup, cheese, canned, condensed	1
+Soup, chicken broth, canned, condensed	0
+Soup, beef broth or bouillon canned, ready-to-serve	0
+Soup, pea, green, canned, condensed	0
+Soup, mushroom with beef stock, canned, condensed	0
+
+
 
 
 
